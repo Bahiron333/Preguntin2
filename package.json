@@ -1,0 +1,22 @@
+{
+  "name": "preguntin",
+  "version": "1.0.0",
+  "description": "juego de preguntas al azar con diez categorias ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahiron333/Preguntin2.git"
+  },
+  "author": "bahiron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahiron333/Preguntin2/issues"
+  },
+  "homepage": "https://github.com/Bahiron333/Preguntin2#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
