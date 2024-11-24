@@ -17,10 +17,12 @@
   },
   "homepage": "https://github.com/Bahiron333/Preguntin2#readme",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.21.1",
-    "handlebars": "^4.7.8"
+    "express-handlebars": "^8.0.1"
   },
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "oracledb": "^6.7.0"
   }
 }
